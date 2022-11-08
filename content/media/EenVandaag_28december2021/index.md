@@ -3,7 +3,7 @@ authors:
 - admin
 categories:
 - Media
-date: "2022-12-28T18:15:00Z"
+date: "2021-12-28T18:15:00Z"
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-11-08T00:00:00Z"
 projects: []
 subtitle: ""
 
