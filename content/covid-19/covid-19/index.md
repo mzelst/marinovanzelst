@@ -23,7 +23,7 @@ title: Dagelijkse statistieken over covid-19
 ## Overview
 
 
-![Get test](opnames_per_dag_kliniek.png) ![IC_opnames](opnames_per_dag_ic.png)
+![Get test](https://raw.githubusercontent.com/mzelst/covid-19/master/plots/opnames_per_dag_kliniek.png) ![IC_opnames](https://raw.githubusercontent.com/mzelst/covid-19/master/plots/opnames_per_dag_ic.png)
 
 
 
