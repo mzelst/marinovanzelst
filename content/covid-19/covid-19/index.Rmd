@@ -1,0 +1,34 @@
+---
+title: "Dagelijkse statistieken over covid-19"
+output: html_document
+date: "`r format(Sys.Date(), '%Y-%m-%d')`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r pressure, echo=FALSE, include = FALSE}
+require(data.table)
+dat <- fread("https://raw.githubusercontent.com/mzelst/covid-19/master/data/all_data.csv")
+
+last.data <- last(dat)
+
+
+```
+
+Hieronder vindt u de dagelijkse cijfers ten aanzien van covid-19 in Nederland. 
+
+## Dagelijkse cijfers - Ziekenhuizen
+
+Opgenomen op de kliniek: `r last.data$Kliniek_Nieuwe_Opnames_COVID_Nederland`
+
+Huidige bezetting kliniek: `r last.data$Kliniek_Bedden_Nederland`
+
+Opgenomen op de IC: `r last.data$IC_Nieuwe_Opnames_COVID_Nederland`
+
+Huidige bezetting IC: `r last.data$IC_Bedden_COVID_Nederland`
+
+
+![Get test](https://raw.githubusercontent.com/mzelst/covid-19/master/plots/opnames_per_dag_kliniek.png) ![IC_opnames](https://raw.githubusercontent.com/mzelst/covid-19/master/plots/opnames_per_dag_ic.png)
+
