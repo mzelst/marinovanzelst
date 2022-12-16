@@ -41,6 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mzelst
+- icon: mastodon
+  icon_pack: fab
+  link: https://mstdn.social/@mzelst  
 superuser: true
 title: Marino van Zelst
 ---
