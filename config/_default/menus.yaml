@@ -19,9 +19,6 @@ main:
   - name: Publications
     url: 'publication/'
     weight: 20
-  - name: COVID-19
-    url: 'covid-19/'
-    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
