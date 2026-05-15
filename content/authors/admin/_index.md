@@ -22,9 +22,9 @@ interests:
 - Science communication
 last_name: van Zelst
 organizations:
-- name: Wageningen University & Research
-  url: https://www.wur.nl
-role: Postdoc quantitative epidemiology
+- name: Ministry of Health
+  url: https://www.rijksoverheid.nl/ministeries/ministerie-van-volksgezondheid-welzijn-en-sport
+role: Senior policy advisor
 social:
 - icon: envelope
   icon_pack: fas
