@@ -1,9 +1,8 @@
 ---
 abstract: In the second edition of Textbook of Epidemiology, a distinguished team of researchers deliver an extensively updated and comprehensive exploration of epidemiological methods, illuminating the tools for studying the distribution and risk factors of health states and events in populations.
 authors:
-- Lex Bouter
-- Maurice Zeegers
-- Tianjing Li
+- Gowri Gopalakrishna
+- Marino van Zelst
 date: "2023-04-16T00:00:00Z"
 doi: ""
 featured: false
