@@ -48,4 +48,5 @@ superuser: true
 title: Marino van Zelst
 ---
 
-I am a policy advisor at the Dutch Ministry of Health. My postdoc focuses mainly on modeling the force of infection and effectiveness of interventions at long-term care facilities during the COVID-19 pandemic.
+I am a policy advisor at the Dutch Ministry of Health. In my work, I coordinate legislative changes, focusing on data and information exchange for infectious disease control and surveillance. 
+I also work on infectious disease modelling and innovation for pandemic preparedness.
