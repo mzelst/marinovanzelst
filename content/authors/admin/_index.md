@@ -50,3 +50,5 @@ title: Marino van Zelst
 
 I am a policy advisor at the Dutch Ministry of Health. In my work, I coordinate legislative changes, focusing on data and information exchange for infectious disease control and surveillance. 
 I also work on infectious disease modelling and innovation for pandemic preparedness.
+
+Trained as an organizational sociologist and raised as infectious disease modeller, I now combine insights from social science and infectious disease epidemiology. I now apply these transdisciplinary insights into policy and law.
