@@ -20,11 +20,11 @@ publishDate: "2023-01-06T00:00:00Z"
 slides:
 summary:
 tags:
-- Science communication
-title: Manifesto for the future of work and organizational psychology
+- Outbreak epidemiology
+title: Outbreak Epidemiology in Textbook of Epidemiology (2nd edition)
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/1359432X.2019.1602041
+url_pdf: https://www.wiley.com/en-fr/Textbook+of+Epidemiology%2C+2nd+Edition-p-9781119776024
 url_poster: ""
 url_project: ""
 url_slides: ""
