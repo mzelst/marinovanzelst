@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Marino van Zelst</title>
-    <link>https://marinovanzelst.com/publication/</link>
-      <atom:link href="https://marinovanzelst.com/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Covid-19 | Marino van Zelst</title>
+    <link>https://marinovanzelst.com/tag/covid-19/</link>
+      <atom:link href="https://marinovanzelst.com/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covid-19</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marinovanzelst.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://marinovanzelst.com/publication/</link>
+      <title>Covid-19</title>
+      <link>https://marinovanzelst.com/tag/covid-19/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://marinovanzelst.com/publication/ntvg2021/</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://marinovanzelst.com/publication/ntvg2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manifesto for the future of work and organizational psychology</title>
-      <link>https://marinovanzelst.com/publication/ejwop2019/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://marinovanzelst.com/publication/ejwop2019/</guid>
       <description></description>
     </item>
     

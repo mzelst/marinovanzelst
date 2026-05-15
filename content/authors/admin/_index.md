@@ -48,4 +48,4 @@ superuser: true
 title: Marino van Zelst
 ---
 
-I am an infectious disease modeler at the Quantitative Veterinary Epidemiology group at Wageningen University & Research. My postdoc focuses mainly on modeling the force of infection and effectiveness of interventions at long-term care facilities during the COVID-19 pandemic.
+I am a policy advisor at the Dutch Ministry of Health. My postdoc focuses mainly on modeling the force of infection and effectiveness of interventions at long-term care facilities during the COVID-19 pandemic.
