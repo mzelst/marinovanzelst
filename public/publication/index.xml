@@ -5,12 +5,20 @@
     <link>https://marinovanzelst.com/publication/</link>
       <atom:link href="https://marinovanzelst.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marinovanzelst.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://marinovanzelst.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Disentangling the force of infection of SARS-CoV-2 in Dutch long-term care facilities</title>
+      <link>https://marinovanzelst.com/publication/bmcph2025/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://marinovanzelst.com/publication/bmcph2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code donkergrijs in het ziekenhuis</title>
